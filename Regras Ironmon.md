@@ -76,7 +76,7 @@ Essas regras adicionais foram feitas para serem insanamente estúpidas e difíce
 > R: Link para as configurações básica do randomizer: [IronMon Settings PNG](https://cdn.discordapp.com/attachments/251538607578284033/809211676905177138/Updated_ironMON_Settings.png).
 
 > P: Existe uma forma de configurar o randomizer facilmente?  
-> A: R: Junte-se à comunidade do IronMon no [servidor oficial](https://discord.gg/jFPYsZAhjX) ou na [RandoBrasil](https://discord.gg/KTAYuY8M4b) para uma sequência atualizada das configurações para carregar as configurações facilmente e tirar qualquer dúvida
+> A: R: Junte-se à comunidade do IronMon no [servidor oficial](https://discord.gg/jFPYsZAhjX) ou na [RandoBrasil](https://discord.gg/KTAYuY8M4b) para uma String atualizada das configurações para carregar as configurações facilmente e tirar qualquer dúvida
 
 > P: Quem eu posso ~~reclamar~~ agradecer por ter criado esse desafio?    
 > R: Links do Iateyourpie para [Twitch](https://www.twitch.tv/iateyourpie), [Twitter](https://twitter.com/Iateyourp1e), and [Youtube](https://www.youtube.com/channel/UCAwIbbB6OE1OAd-gisAl5jA). 
