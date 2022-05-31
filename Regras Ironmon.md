@@ -1,7 +1,7 @@
 # O Desafio IronMON: Tradução por Tucabass
 
 IronMon é uma run de desafio de [Pokémon Randomizer](https://github.com/Ajarmar/universal-Pokemon-randomizer-zx/releases)
-Challenge criada por [Iateyourpie](https://www.twitch.tv/iateyourpie)e projetada para fazer a experiência do randomizer divertida e desafiadora, enquanto tira o grind de pokemons selvagens que acompanha alguns dos outros desafios. Ela foi originalmente feita para Fire Red / Leaf Green mas as regras também podem ser aplicadas/ajustadas para outros jogos. Se você está interessado em mais informações a respeito de Ironmon, junte-se à [comunidade oficial](https://discord.gg/jFPYsZAhjX) ou à [comunidade brasileira de Randomizer](https://discord.gg/KTAYuY8M4b)!
+Challenge criada por [Iateyourpie](https://www.twitch.tv/iateyourpie) e projetada para fazer a experiência do randomizer divertida e desafiadora, enquanto tira o grind de pokemons selvagens que acompanha alguns dos outros desafios. Ela foi originalmente feita para Fire Red / Leaf Green mas as regras também podem ser aplicadas/ajustadas para outros jogos. Se você está interessado em mais informações a respeito de Ironmon, junte-se à [comunidade oficial](https://discord.gg/jFPYsZAhjX) ou à [comunidade brasileira de Randomizer](https://discord.gg/KTAYuY8M4b)!
 
 IronMon tem níveis variáveis de dificuldade, para que seja mais acessível, mas também forneça o desafio mais árduo possível para aqueles que o quiserem. 
 
