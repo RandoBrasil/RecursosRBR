@@ -41,7 +41,9 @@ Regras adicionais para gamers extremos (inclui todas as regras anteriores ao men
 Regras específicas para Ultimate IronMon FIRE RED/LEAF GREEN:
 
 A) Você deve enfrentar imediatamente o rival no barco antes de outros treinadores no barco. 
+
 B) Você deve enfrentar o rival para sair de Lavender Town em sua primeira visita (volte depois para progressão).
+
 C) Você não pode viajar para Sevii islands com o Bill antes de derrotar a Elite 4.
 
 ### Regras para Kaizo IronMon
