@@ -69,10 +69,10 @@ Essas regras adicionais foram feitas para serem insanamente estúpidas e difíce
 > P: Onde eu posso encontrar o randomizer?  
 > R: https://github.com/Ajarmar/universal-Pokemon-randomizer-zx/releases
 
-> P: Eu posso resetar imediatamente se eu não gostar do meu Pokémon inicial? 
+> P: Eu posso resetar imediatamente se eu não gostar do meu Pokémon inicial?  
 > R: E qual seria a graça? Tentar jogar é o espírito do desafio, você pode se surpreender com quão longe você pode ir.
 
-> P: Quais são as configurações do randomizer?
+> P: Quais são as configurações do randomizer?  
 > R: Link para as configurações básica do randomizer: [IronMon Settings PNG](https://cdn.discordapp.com/attachments/251538607578284033/809211676905177138/Updated_ironMON_Settings.png).
 
 > P: Existe uma forma de configurar o randomizer facilmente?  
